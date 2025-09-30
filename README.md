@@ -18,7 +18,7 @@ Geospatial data analysis is an essential aspect of understanding spatial pattern
 To run this notebook, you have to just clone it. You can do this by running the following command:
 
 ```bash
-git clone https://github.com/cizodevahm/Geospatial-Data-Analysis-in-Python.git
+git clone https://github.com/awanafnan17/geospatial-data-analysis-python.git
 ```
 
 Ensure you have Jupyter installed, and then launch the notebook using:
